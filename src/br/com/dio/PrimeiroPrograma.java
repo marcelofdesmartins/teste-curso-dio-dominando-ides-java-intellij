@@ -9,5 +9,8 @@ package br.com.dio;
                 int b = 3;
                 System.out.println ("Hello World! " + (a+b));
                 */
+                Livro livro = new Livro ("O problema dos 3 corpos", "300");
+                char Livro = 1;
+                System.out.println (Livro);
             }
         }
